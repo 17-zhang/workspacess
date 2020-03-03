@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>svg全屏滚动特效</title>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <div class="title">
+        <img class="tile_img tile_img--first" alt="">
+        <img class="tile_img tile_img--last" alt="">
+        <div class="title">
+            &nbsp;<br />&nbsp;
+            <div class="title_container">
+                <div class="title_text title_text--first"></div>
+                <div class="title_text title_text--first"></div>
+            </div>
+        </div>
+    </div>
+    <!--Next Button-->
+    <button class="next-tile">
+        <span class="next-tile_details">
+            <span class="next-tile_heading">Up next</span>
+            <span class="next-tile_title">
+                &nbsp;<br />&nbsp;
+                <span class="next-tile_title_text next-tile_title_text--first"></span>
+                <span class="next-tile_title_text next-tile_title_text--first"></span>
+            </span>
+            <svg class="next-title_arrow" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 42.6 20.1" style="enable-background: new 0 0 42.6 20.1;" xml:space="preserve">
+                <path class="st0" d="M0,8.2h35.5l-5.6-5.6L32.5,0l10.1,10.1L32.5,20.1l-2.6-2.6l5.6-5.6H0V8.2z"></path>
+            </svg>
+            <div class="test-arrow"></div>
+        </span>
+        <span class="next-tile_preview">
+            <img class="next-tile_preview_img next-tile_preview_img--first" alt="">
+            <img class="next-tile_preview_img next-tile_preview_img--last" alt="">
+        </span>
+    </button>
+
+    <script src="./js/TweenMax.min.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+</html>
