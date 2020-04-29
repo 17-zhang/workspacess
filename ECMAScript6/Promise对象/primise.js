@@ -3,7 +3,7 @@
  * */
 const primise = new Primise(function (resolve, reject) {
     // ...
-    if (/* 异步操作成功*/) {
+    if (异步操作成功) {
         resolve(value)
     } else {
         reject(error)
