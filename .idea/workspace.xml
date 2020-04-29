@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9db5d589-4bd8-4b0f-8194-0ac78b52ee68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/数组总结/数组去重.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECMAScript6/Promise对象/primise.js" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript6/Promise对象/primise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -30,6 +29,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1bC4DWWgD0pjPAmRiiDQIyrkdPo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -63,7 +65,7 @@
       <updated>1563351551903</updated>
       <workItem from="1563351553341" duration="39896000" />
       <workItem from="1588122623389" duration="67000" />
-      <workItem from="1588123532419" duration="1105000" />
+      <workItem from="1588123532419" duration="4801000" />
     </task>
     <servers />
   </component>
@@ -75,5 +77,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="589" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588123853946" />
+    <state x="1347" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1588138809742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1347" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588138809742" />
   </component>
 </project>
