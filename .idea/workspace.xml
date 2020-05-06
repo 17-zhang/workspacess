@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9db5d589-4bd8-4b0f-8194-0ac78b52ee68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数组总结/数组去重.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组总结/ES6数据去重.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,8 @@
       <updated>1563351551903</updated>
       <workItem from="1563351553341" duration="39896000" />
       <workItem from="1588122623389" duration="67000" />
-      <workItem from="1588123532419" duration="4801000" />
+      <workItem from="1588123532419" duration="5406000" />
+      <workItem from="1588737122068" duration="2335000" />
     </task>
     <servers />
   </component>
