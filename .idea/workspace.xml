@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9db5d589-4bd8-4b0f-8194-0ac78b52ee68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数组总结/JS深拷贝和浅拷贝.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组总结/ES6数据去重.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/ES6数据去重.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组总结/JS深拷贝和浅拷贝.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/JS深拷贝和浅拷贝.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组总结/call()、apply()、bind()区别和总结.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/call()、apply()、bind()区别和总结.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组总结/数组去重.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/数组去重.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
       <workItem from="1588123532419" duration="5406000" />
       <workItem from="1588737122068" duration="6814000" />
       <workItem from="1588818268343" duration="5627000" />
-      <workItem from="1588901068833" duration="283000" />
+      <workItem from="1588901068833" duration="948000" />
     </task>
     <servers />
   </component>
